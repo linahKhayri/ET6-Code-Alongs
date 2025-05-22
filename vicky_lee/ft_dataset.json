@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "Translate the sentence to French.",
+        "input": "Hello, how are you?",
+        "output": "Bonjour, comment ça va?"
+    },
+    {
+        "instruction": "Summarize the paragraph.",
+        "input": "The rain poured down heavily all day, causing traffic delays and flooding in the streets.",
+        "output": "Heavy rain caused traffic and flooding."
+    },
+    {
+        "instruction": "Convert the sentence to a formal tone.",
+        "input": "Can you send me the files?",
+        "output": "Would you be able to send me the files?"
+    }
+]
