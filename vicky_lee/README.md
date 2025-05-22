@@ -51,7 +51,7 @@ Optional setup:
 
 ## 🚀 How to Run the Lesson
 
-1. Open the [`notebook.ipynb`](./notebook.ipynb) in Google Colab.
+1. Open the [`llama_finetune_notebook.ipynb`](https://colab.research.google.com/drive/1pyzUohuoH8IoRnvSvc8jATgl7Ji16yar#scrollTo=098797f5) in Google Colab and make a copy. 
 2. Follow along with your instructor as we:
    - Load a pre-trained LLaMA model
    - Prepare a tiny dataset
